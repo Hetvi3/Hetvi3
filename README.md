@@ -1,14 +1,6 @@
 ## Hi👋 I'm Hetvi Varu
 
-🎓 I'm an Electronics and Communication Engineering student passionate about driving innovative hardware and embedded system solutions.  
-💡 Passionate about Embedded Systems, VLSI, and ASIC Design.  
-🛠 Currently learning RTOS, Computer Architecture, and FPGA development.
-
-## 🚀 About Me
-
-- 🌱 Improving my skills in **ASIC Flow and Digital Design**
-- 🧠 Exploring **ESP-IDF,  Verilog HDL, and PlatformIO**
-- 🔧 Ask me about **RISC-V, AES, and HMI Development**
+🎓 I'm an Electronics and Communication Engineer, passionate about driving innovative hardware and embedded system solutions.  
 
 
 ## 📬 Connect with me:
