@@ -1,7 +1,5 @@
 ## Hi👋 I'm Hetvi Varu
 
-🎓 I'm an Electronics and Communication Engineer, passionate about driving innovative hardware and embedded system solutions.  
-
 
 ## 📬 Connect with me:
 
