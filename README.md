@@ -45,10 +45,3 @@ I actively contribute to Airowl's embedded firmware, with **40+ public commits**
 → [Explore my Airowl contributions](https://github.com/airowl-iot/airowl/commits/main/?author=Hetvi3)
 
 I also maintain a public [fork of Espressif's WebRTC solution](https://github.com/Hetvi3/esp-webrtc-solution) while exploring real-time voice and video on embedded devices.
-
-## Things I've built
-
-| Project | What makes it interesting | Tech |
-|:--|:--|:--|
-| 📲 [Wireless Electronic Notice Board](https://github.com/Hetvi3/Wireless-Electronic-Notice-Board) | A connected display system bridging embedded hardware and communication | `C` `Embedded Systems` |
-| 💬 [Client–Server Chat](https://github.com/Hetvi3/Socket-Based-Client-Server-Chat-Application) | A socket-based application exploring real-time network communication | `Sockets` `Networking` |
