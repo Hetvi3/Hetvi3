@@ -1,0 +1,27 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+  <defs>
+    <pattern id="pixels" width="12" height="12" patternUnits="userSpaceOnUse">
+      <rect width="3" height="3" fill="#352240" opacity=".64"/>
+    </pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect y="3" width="4" height="1" fill="#B8A1FF" opacity=".055"/>
+    </pattern>
+    <linearGradient id="border" x1="12" y1="12" x2="1188" y2="348" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF9A8B"/>
+      <stop offset="0.52" stop-color="#B8A1FF"/>
+      <stop offset="1" stop-color="#7BDFF2"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="360" fill="#000000"/>
+  <rect x="14" y="14" width="1172" height="332" rx="18" fill="none" stroke="url(#border)" stroke-width="3"/>
+  <rect x="20" y="20" width="1160" height="320" rx="14" fill="none" stroke="#FFF1E6" stroke-opacity=".12"/>
+
+  <g text-anchor="middle" font-family="'DejaVu Sans Mono', monospace" font-weight="900">
+    <text x="609" y="151" font-size="82" letter-spacing="-4" fill="#7BDFF2">HETVI VARU</text>
+    <text x="603" y="145" font-size="82" letter-spacing="-4" fill="#FF9A8B">HETVI VARU</text>
+    <text x="600" y="142" font-size="82" letter-spacing="-4" fill="#FFF1E6">HETVI VARU</text>
+    <text x="600" y="218" font-size="18" letter-spacing="2" fill="#B8A1FF">WHERE HARDWARE MEETS SOFTWARE—AND IDEAS BECOME PRODUCTS.</text>
+    <text x="600" y="267" font-size="15" letter-spacing="1.8" fill="#FFC2D1">I BUILD FIRMWARE, APPS, AND THE SYSTEMS BEHIND THEM.</text>
+  </g>
+</svg>
